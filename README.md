@@ -2,6 +2,13 @@
 
 **`"My internet connection is trash and so is my life..."`**
 
+### Interested in
+
+- Linux
+- Low Level Programming
+- VIM
+- Some Web Dev
+
 ### Languages and Tools
 
 #### Using
@@ -11,7 +18,7 @@
 
 #### Learning
 
-[![Learning](https://skillicons.dev/icons?i=vim,nix,bash,c,cpp,ts&theme=dark)](https://skillicons.dev)
+[![Learning](https://skillicons.dev/icons?i=vim,nix,arch,bash,c,cpp,ts&theme=dark)](https://skillicons.dev)
 
 
 ### 📊 Stats
