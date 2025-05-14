@@ -13,16 +13,16 @@
 
 #### Using
 
-[![Using](https://skillicons.dev/icons?i=py,rust,html,css,js,react,tailwind&theme=dark)](https://skillicons.dev)
+[![Using](https://skillicons.dev/icons?i=rust,python,markdown,html,css,typescript,javascript,react,tailwind,c,cpp&theme=dark)](https://skillicons.dev)
 
 
 #### Learning
 
-[![Learning](https://skillicons.dev/icons?i=vim,nix,arch,bash,c,cpp,ts&theme=dark)](https://skillicons.dev)
+[![Learning](https://skillicons.dev/icons?i=neovim,vim,linux,arch,nix,debian,bash,go,latex,discordjs&theme=dark)](https://skillicons.dev)
 
 
 ### 📊 Stats
 
 ![Pottarr's GitHub stats](https://github-readme-stats.vercel.app/api?username=Pottarr&show_icons=true&theme=gotham)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pottarr&layout=donut-vertical&theme=gotham)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Pottarr&layout=donut-vertical&theme=gotham)
