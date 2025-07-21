@@ -2,27 +2,38 @@
 
 **`"My internet connection is trash and so is my life..."`**
 
-### Interested in
+### Interested in:
 
+- Rust
 - Linux
 - Low Level Programming
-- VIM
+- Neovim
 - Some Web Dev
 
-### Languages and Tools
+### Languages and Tools:
 
-#### Using
+#### Using:
 
-[![Using](https://skillicons.dev/icons?i=rust,python,markdown,html,css,typescript,javascript,react,tailwind,c,cpp&theme=dark)](https://skillicons.dev)
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=rust,python,neovim,linux,nix,arch,markdown,latex&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=html,css,typescript,javascript,react,tailwind,c,cpp&theme=dark" />
+</div>
 
+#### Learning:
 
-#### Learning
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=bash,go&theme=dark" />
+</div>
 
-[![Learning](https://skillicons.dev/icons?i=neovim,vim,linux,arch,nix,debian,bash,go,latex,discordjs&theme=dark)](https://skillicons.dev)
+### Stats:
 
+<div align="center" flex="row">
+    <img src="https://github-readme-stats.vercel.app/api?username=Pottarr&show_icons=true&theme=gotham" />
+</div>
+<div align="center" flex="row">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pottarr&layout=donut-vertical&theme=gotham" />
+</div>
 
-### 📊 Stats
+### Contact:
 
-![Pottarr's GitHub stats](https://github-readme-stats.vercel.app/api?username=Pottarr&show_icons=true&theme=gotham)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Pottarr&layout=donut-vertical&theme=gotham)
+[![GMAIL](https://skillicons.dev/icons?i=gmail&theme=dark)](mailto:pottarrpongs@gmail.com)<a href="https://www.linkedin.com/in/pottarrpongs/"><img src="https://skillicons.dev/icons?i=linkedin&theme=dark" /></a>
