@@ -15,14 +15,14 @@
 #### Using:
 
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=rust,python,neovim,linux,nix,arch,markdown,latex&theme=dark" />
-    <img src="https://skillicons.dev/icons?i=html,css,typescript,javascript,react,tailwind,c,cpp&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=rust,python,latex,neovim,linux,nix,markdown&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=html,css,typescript,javascript,bash,c,cpp&theme=dark" />
 </div>
 
 #### Learning:
 
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=bash,go&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=go&theme=dark" />
 </div>
 
 ### Stats:
@@ -31,7 +31,7 @@
     <img src="https://github-readme-stats.vercel.app/api?username=Pottarr&show_icons=true&theme=gotham" />
 </div>
 <div align="center" flex="row">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pottarr&layout=donut-vertical&theme=gotham" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SylvanFranklin&layout=donut-vertical&theme=gotham" />
 </div>
 
 ### Contact:
