@@ -15,8 +15,8 @@
 #### Using:
 
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=rust,python,latex,neovim,linux,nix,markdown&theme=dark" />
-    <img src="https://skillicons.dev/icons?i=html,css,typescript,javascript,bash,c,cpp&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=rust,latex,neovim,nix,linux,markdown,python,bash&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=html,css,c,cpp,typescript,javascript,java,lua&theme=dark" />
 </div>
 
 #### Learning:
