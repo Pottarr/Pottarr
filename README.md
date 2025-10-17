@@ -43,7 +43,7 @@
 </div>
 <div style="border-radius: 5px; border: 1px solid #E4E2E2;" align="center" flex="row">
     <h3 style="color: #268F77;">Languages I was using within last 7 days</h3>
-    <figure><embed src="https://wakatime.com/share/@Pottarr/47c87020-cb63-4a4e-9aad-a58a8a558410.svg"></embed></figure>
+    <embed src="https://wakatime.com/share/@Pottarr/47c87020-cb63-4a4e-9aad-a58a8a558410.svg"></embed>
 </div>
 
 ### Contact:
