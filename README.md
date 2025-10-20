@@ -43,8 +43,9 @@
 </div>
 <div style="border-radius: 5px; border: 1px solid #E4E2E2;" align="center" flex="row">
     <h3 style="color: #268F77">Languages I was using within last 7 days</h3>
-    <img src="https://wakatime.com/share/@Pottarr/6a5010b2-7876-46f4-b8e0-df2b958329a3.png" />
+    <img src="https://github.com/Pottarr/Pottarr/blob/main/wakatime-languages-pie-svg.svg" alt="WakaTime Language Chart" />
 </div>
+
 
 ### Contact:
 

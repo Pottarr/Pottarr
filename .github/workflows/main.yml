@@ -15,7 +15,5 @@ jobs:
       - uses: joelibaceta/wakatime-languages-pie-svg@v1
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
-          # If your username is different from your github username, specify it here
-          # WAKATIME_USERNAME: "your-wakatime-username" 
-          # For more options, see the action's documentation
-
+          TIME_RANGE: last_7_days
+          THEME: gotham
