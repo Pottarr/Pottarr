@@ -2,15 +2,19 @@
 
 **`"My internet connection is trash and so is my life..."`**
 
+### My tips for any new Linux users:
+
+**`"Stick with LTS, not the latest version. Trust me. I've been there before... 💀"`**
+
 ### If you're looking for [something useful](https://github.com/Pottarr/KMITL-SE-Classes-Archive)...
 
 ### Interested in:
 
 - Rust
 - Linux
-- Low Level Programming
 - Neovim
-- Some Web Dev
+- Low Level Programming
+- C and C++ (Assembly, if necessary)
 
 ### NOT Interested in:
 
