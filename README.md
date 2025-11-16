@@ -40,7 +40,7 @@
 ### Stats:
 
 <div align="center" flex="row">
-    <img src="https://github-readme-stats.vercel.app/api?username=Pottarr&show_icons=true&theme=gotham&include_all_commits=true&custom_title=Github Stats" />
+    <img src="https://github-readme-stats.vercel.app/api?username=Pottarr&show_icons=true&theme=gotham&include_all_commits=true" />
 </div>
 <div align="center" flex="row">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pottarr&layout=donut-vertical&theme=gotham&langs_count=20" />
