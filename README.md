@@ -40,10 +40,14 @@
 ### Stats:
 
 <div align="center" flex="row">
-    <img src="https://github-readme-stats.vercel.app/api?username=Pottarr&show_icons=true&theme=gotham" />
+    <img src="https://github-readme-stats.vercel.app/api?username=Pottarr&show_icons=true&theme=gotham&include_all_commits=true&custom_title=Github Stats&hide=contribs" />
 </div>
 <div align="center" flex="row">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pottarr&layout=donut-vertical&theme=gotham" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pottarr&layout=donut-vertical&theme=gotham&langs_count=20" />
+</div>
+<div align="center" flex="row">
+    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Pottarr&theme=gotham&layout=compact&langs_count=10" />
+
 </div>
 <!-- <div style="border-radius: 5px; border: 1px solid #E4E2E2;" align="center" flex="row"> -->
     <!-- <h3 style="color: #268F77">Languages I was using within previous year</h3> -->
