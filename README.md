@@ -47,20 +47,28 @@
 </div>
 <div align="center" flex="row">
     <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Pottarr&theme=gotham&layout=compact&langs_count=10" />
-
 </div>
-<!-- <div style="border-radius: 5px; border: 1px solid #E4E2E2;" align="center" flex="row"> -->
-    <!-- <h3 style="color: #268F77">Languages I was using within previous year</h3> -->
-    <!-- <img src="https://github.com/Pottarr/Pottarr/blob/main/wakatime-languages-pie-svg.svg" alt="WakaTime Language Chart" /> -->
-    <!-- <h3 style="color: #268F77">Update on 1st of January Annually</h3> -->
-<!-- </div> -->
-
 
 ### Contact:
 
 <a href="https://www.linkedin.com/in/pottarrpongs/"><img src="https://skillicons.dev/icons?i=linkedin&theme=dark" /></a>
 
+### Past Academic Projects
+
+[![8Bit-CPU](https://github-readme-stats.vercel.app/api/pin/?username=pottarr&repo=8Bit-CPU&theme=gotham)](https://github.com/pottarr/8Bit-CPU)
+[![RUSH-Rust-Shell-Terminal](https://github-readme-stats.vercel.app/api/pin/?username=pottarr&repo=RUSH-Rust-Shell-Terminal&theme=gotham)](https://github.com/pottarr/RUSH-Rust-Shell-Terminal)
+[![PyCalendar](https://github-readme-stats.vercel.app/api/pin/?username=pottarr&repo=PyCalendar&theme=gotham)](https://github.com/pottarr/PyCalendar)
+[![QtGroove](https://github-readme-stats.vercel.app/api/pin/?username=pottarr&repo=QtGroove&theme=gotham)](https://github.com/pottarr/QtGroove)
+
+<!-- ### Academic Archives -->
+<!-- [![KMITL-SE-Classes-Archive](https://github-readme-stats.vercel.app/api/pin/?username=pottarr&repo=KMITL-SE-Classes-Archive&theme=gotham)](https://github.com/pottarr/KMITL-SE-Classes-Archive) -->
+<!-- [![KMITL-SE-Classes-Materials](https://github-readme-stats.vercel.app/api/pin/?username=pottarr&repo=KMITL-SE-Classes-Materials&theme=gotham)](https://github.com/pottarr/KMITL-SE-Classes-Materials) -->
+
+<!-- ### Project in Progress: -->
+<!-- [![I-ASSUME-CPU](https://github-readme-stats.vercel.app/api/pin/?username=pottarr&repo=I-ASSUME-CPU&theme=gotham)](https://github.com/pottarr/I-ASSUME-CPU) -->
+<!-- [![JarueK](https://github-readme-stats.vercel.app/api/pin/?username=pottarr&repo=Jaruek&theme=gotham)](https://github.com/pottarr/JarueK) -->
+
 ### Experiences:
 
-- Elementary System Programming Teacher Assistant (Rust)
-- Computer Programming Teacher Assistant (Python) (Somehow got the job...)
+- Elementary System Programming Teaching Assistant (Rust) | Semester 1/2025
+- Computer Programming Teaching Assistant (Python) | Semester 1/2025 (Somehow got the job...)
