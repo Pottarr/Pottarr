@@ -6,21 +6,15 @@
 
 **`"Stick with LTS, not the latest version. Trust me. I've been there before... 💀"`**
 
+### Curious about [me](https://github.com/Pottarr/Resume.tex/blob/main/Theepakorn-Resume-1-Page.pdf)?
+
 ### If you're looking for [something useful](https://github.com/Pottarr/KMITL-SE-Classes-Archive)...
 
-### Interested in:
+### Experiences:
 
-- Rust
-- Linux
-- Neovim
-- Low Level Programming
-- C and C++ (Assembly, if necessary)
-
-### NOT Interested in:
-
-- Vibe Coding
-- Visual Studio Code
-- Windows 11 (Windows 10 is acceptable.)
+- Elementary System Programming Teaching Assistant (Rust) | Semester 1/2025
+- Computer Programming Teaching Assistant (Python) | Semester 1/2025
+- Object Oriented Programming Teaching Assistant (C++) | Semester 2/2025
 
 ### Languages and Tools:
 
@@ -68,7 +62,18 @@
 <!-- [![I-ASSUME-CPU](https://github-readme-stats.vercel.app/api/pin/?username=pottarr&repo=I-ASSUME-CPU&theme=gotham)](https://github.com/pottarr/I-ASSUME-CPU) -->
 <!-- [![JarueK](https://github-readme-stats.vercel.app/api/pin/?username=pottarr&repo=Jaruek&theme=gotham)](https://github.com/pottarr/JarueK) -->
 
-### Experiences:
+### Interested in:
 
-- Elementary System Programming Teaching Assistant (Rust) | Semester 1/2025
-- Computer Programming Teaching Assistant (Python) | Semester 1/2025 (Somehow got the job...)
+- Rust
+- Linux
+- Neovim
+- Low Level Programming
+- Computer Architecture
+- C and C++ (Assembly, if necessary)
+
+### NOT Interested in:
+
+- Vibe Coding
+- Visual Studio Code
+- Windows 11 (Windows 10 is acceptable.)
+- MS-Word or anything else equivalent
