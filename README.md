@@ -34,13 +34,13 @@
 ### Stats:
 
 <div align="center" flex="row">
-    <img src="https://github-readme-stats.vercel.app/api?username=Pottarr&show_icons=true&theme=gotham&include_all_commits=true" />
+    <img src="https://pottarr-github-readme.vercel.app/api?username=Pottarr&show_icons=true&theme=gotham&include_all_commits=true" />
 </div>
 <div align="center" flex="row">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pottarr&layout=donut-vertical&theme=gotham&langs_count=20" />
+    <img src="https://pottarr-github-readme.vercel.app/api/top-langs/?username=Pottarr&layout=donut-vertical&theme=gotham&langs_count=20" />
 </div>
 <div align="center" flex="row">
-    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Pottarr&theme=gotham&layout=compact&langs_count=10" />
+    <img src="https://pottarr-github-readme.vercel.app/api/wakatime?username=Pottarr&theme=gotham&layout=compact&langs_count=10" />
 </div>
 
 ### Contact:
@@ -49,10 +49,10 @@
 
 ### Past Academic Projects
 
-[![8Bit-CPU](https://github-readme-stats.vercel.app/api/pin/?username=pottarr&repo=8Bit-CPU&theme=gotham)](https://github.com/pottarr/8Bit-CPU)
-[![RUSH-Rust-Shell-Terminal](https://github-readme-stats.vercel.app/api/pin/?username=pottarr&repo=RUSH-Rust-Shell-Terminal&theme=gotham)](https://github.com/pottarr/RUSH-Rust-Shell-Terminal)
-[![PyCalendar](https://github-readme-stats.vercel.app/api/pin/?username=pottarr&repo=PyCalendar&theme=gotham)](https://github.com/pottarr/PyCalendar)
-[![QtGroove](https://github-readme-stats.vercel.app/api/pin/?username=pottarr&repo=QtGroove&theme=gotham)](https://github.com/pottarr/QtGroove)
+[![8Bit-CPU](https://pottarr-github-readme.vercel.app/api/pin/?username=pottarr&repo=8Bit-CPU&theme=gotham)](https://github.com/pottarr/8Bit-CPU)
+[![RUSH-Rust-Shell-Terminal](https://pottarr-github-readme.vercel.app/api/pin/?username=pottarr&repo=RUSH-Rust-Shell-Terminal&theme=gotham)](https://github.com/pottarr/RUSH-Rust-Shell-Terminal)
+[![PyCalendar](https://pottarr-github-readme.vercel.app/api/pin/?username=pottarr&repo=PyCalendar&theme=gotham)](https://github.com/pottarr/PyCalendar)
+[![QtGroove](https://pottarr-github-readme.vercel.app/api/pin/?username=pottarr&repo=QtGroove&theme=gotham)](https://github.com/pottarr/QtGroove)
 
 <!-- ### Academic Archives -->
 <!-- [![KMITL-SE-Classes-Archive](https://github-readme-stats.vercel.app/api/pin/?username=pottarr&repo=KMITL-SE-Classes-Archive&theme=gotham)](https://github.com/pottarr/KMITL-SE-Classes-Archive) -->
