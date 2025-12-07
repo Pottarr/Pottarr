@@ -37,7 +37,7 @@
     <img src="https://pottarr-github-readme.vercel.app/api?username=Pottarr&show_icons=true&theme=gotham&include_all_commits=true" />
 </div>
 <div align="center" flex="row">
-    <img src="https://pottarr-github-readme.vercel.app/api/top-langs/?username=Pottarr&layout=donut-vertical&theme=gotham&langs_count=20" />
+    <img src="https://pottarr-github-readme.vercel.app/api/top-langs/?username=Pottarr&layout=donut-vertical&theme=gotham&langs_count=20&exclude_repo=pottarr-github-readme" />
 </div>
 <div align="center" flex="row">
     <img src="https://pottarr-github-readme.vercel.app/api/wakatime?username=Pottarr&theme=gotham&layout=compact&langs_count=10" />
