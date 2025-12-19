@@ -2,11 +2,7 @@
 
 **`"My internet connection is trash and so is my life..."`**
 
-### My tips for any new Linux users:
-
-**`"Stick with LTS, not the latest version. Trust me. I've been there before... 💀"`**
-
-### Curious about [me](https://github.com/Pottarr/Resume.tex/blob/main/Theepakorn-Resume-1-Page.pdf)?
+### Curious about [me](https://github.com/Pottarr/Resume.tex/blob/main/Theepakorn-Resume.pdf)?
 
 ### If you're looking for [something useful](https://github.com/Pottarr/KMITL-SE-Classes-Archive)...
 
@@ -45,7 +41,10 @@
 
 ### Contact:
 
-<a href="https://www.linkedin.com/in/pottarrpongs/"><img src="https://skillicons.dev/icons?i=linkedin&theme=dark" /></a>
+<div style="vertical-align: middle; display: flex-block; flex-direction: row;">
+    <a href="https://www.linkedin.com/in/pottarrpongs/" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin&theme=dark" /></a>
+    <a href="https://www.youtube.com/@pottarrpongs" target="_blank"><img style="width:60px;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Youtube_logo.png/120px-Youtube_logo.png?20220706172052" /></a>
+</div>
 
 ### Past Academic Projects
 
@@ -77,3 +76,5 @@
 - Visual Studio Code
 - Windows 11 (Windows 10 is acceptable.)
 - MS-Word or anything else equivalent
+
+![](https://komarev.com/ghpvc/?username=pottarr&color=blue)
