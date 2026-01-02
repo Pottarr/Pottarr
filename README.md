@@ -53,13 +53,13 @@
 [![PyCalendar](https://pottarr-github-readme.vercel.app/api/pin/?username=pottarr&repo=PyCalendar&theme=gotham)](https://github.com/pottarr/PyCalendar)
 [![QtGroove](https://pottarr-github-readme.vercel.app/api/pin/?username=pottarr&repo=QtGroove&theme=gotham)](https://github.com/pottarr/QtGroove)
 
-<!-- ### Academic Archives -->
-<!-- [![KMITL-SE-Classes-Archive](https://github-readme-stats.vercel.app/api/pin/?username=pottarr&repo=KMITL-SE-Classes-Archive&theme=gotham)](https://github.com/pottarr/KMITL-SE-Classes-Archive) -->
-<!-- [![KMITL-SE-Classes-Materials](https://github-readme-stats.vercel.app/api/pin/?username=pottarr&repo=KMITL-SE-Classes-Materials&theme=gotham)](https://github.com/pottarr/KMITL-SE-Classes-Materials) -->
+### Personal Projects
 
-<!-- ### Project in Progress: -->
-<!-- [![I-ASSUME-CPU](https://github-readme-stats.vercel.app/api/pin/?username=pottarr&repo=I-ASSUME-CPU&theme=gotham)](https://github.com/pottarr/I-ASSUME-CPU) -->
-<!-- [![JarueK](https://github-readme-stats.vercel.app/api/pin/?username=pottarr&repo=Jaruek&theme=gotham)](https://github.com/pottarr/JarueK) -->
+[![TMXDS](https://pottarr-github-readme.vercel.app/api/pin/?username=pottarr&repo=TMXDS&theme=gotham)](https://github.com/pottarr/TMXDS)
+[![PLA-Macros](https://pottarr-github-readme.vercel.app/api/pin/?username=pottarr&repo=PLA-Macros&theme=gotham)](https://github.com/pottarr/PLA-Macros)
+<!-- [![I-ASSUME-CPU](https://pottarr-github-readme.vercel.app/api/pin/?username=pottarr&repo=I-ASSUME-CPU&theme=gotham)](https://github.com/pottarr/I-ASSUME-CPU) -->
+<!-- [![C-Plotter](https://pottarr-github-readme.vercel.app/api/pin/?username=pottarr&repo=C-Plotter&theme=gotham)](https://github.com/pottarr/I-ASSUME-CPU) -->
+<!-- [![JarueK](https://pottarr-github-readme.vercel.app/api/pin/?username=pottarr&repo=C-Plotter&theme=gotham)](https://github.com/pottarr/C-Plotter) -->
 
 ### Interested in:
 
